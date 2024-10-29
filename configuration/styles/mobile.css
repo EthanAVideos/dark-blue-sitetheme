@@ -1,0 +1,8 @@
+/* mobile.css - All Rights Reserved EthanA Videos, GHM & Affiliates - Date Created: 10/26/24 - Latest Update Date: 10/26/24 - Version: 1.0.0 */
+
+* { /* * apply's for every element, only use for certain things (Like removing the default padding & margin of the page / elements)*/
+	padding: 0; /* Removed Default Padding */
+	margin: 0; /* Removed Default Margin */
+}
+
+

@@ -1,0 +1,10 @@
+Main styling will style everything for the screen that is above the max width of 1080px or anything that is not styled within a @media tag and or the 
+screen does not meet the sizes of the media tag.
+
+Are Screen Size Targeting Standards:
+Main,
+Max of 1080px and min of 999px in width.
+Max of 998px and min of 760px in width.
+Max of 667px and min of 600px in width.
+Max of 428px and min of 399px in width.
+Max of 398px and min of 360px in width.
